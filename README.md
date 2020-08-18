@@ -1,6 +1,6 @@
 ### Hi there, my name is Pavel 👋
 
-## Computer science is an ocean and I am an enthusiast witch wants to be the sailor. The waves ragging and the wind whistles in my ears, I have no destination point, only path. So let's go!
+#### Computer science is an ocean and I am an enthusiast witch wants to be the sailor. The waves ragging and the wind whistles in my ears, I have no destination point, only path. So let's go!
 
 
 <!--
