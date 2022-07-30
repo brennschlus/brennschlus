@@ -1,5 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 ### Hi there, my name is Pavel 👋
 
 #### Computer science is an ocean and I am an enthusiast wich wants to be the sailor. The waves ragging and the wind whistles in my ears, I have no destination point, only path. So let's go!
