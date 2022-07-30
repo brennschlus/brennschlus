@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on mobile app where you can search through huge database of games. Something like IMDB but for games.
 - 🌱 I’m currently learning dart, flutter, mobile development
-- 📳 You can hire me as a junior flutter mobile developer 
 <!--
 **brennschlus/brennschlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
